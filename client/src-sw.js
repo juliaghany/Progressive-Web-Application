@@ -35,6 +35,7 @@ registerRoute(
     plugins: [
       new CacheableResponsePlugin({
         statuses: [0, 200],
+        // Do I need to add anything about the Expiration Plugin here? 
       }),
     ],
   })
