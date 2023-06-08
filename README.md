@@ -1,12 +1,10 @@
-# Progressive Web Applications (PWA) Challenge: Text Editor
+# Progressive Web Application
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-URL to functional, deployed action: 
+URL to functional, deployed action: https://julia-text-editor.herokuapp.com/
 
-<!-- ![Alt text](assets/images/screenshot_3.png)
-![Alt text](assets/images/screenshot_1.png)
-![Alt text](assets/images/screenshot_2.png) -->
+![Alt text](client/src/images/julia-text-editor.herokuapp.com_.png)
 
 ## Description 
 
@@ -25,7 +23,9 @@ This application is a text editor that runs in the browser. It is a single-page 
 
 - I used a starter code developed by the bootcamp as the foundation for this project. I built upon the inital codebase provided to incorporate features and functionalities.  
 
-- My tutor, Alex Gonzalez, helped me with
+- My tutor, Alex Gonzalez, advised me to adjust some code in my database.js file. He also told me to remove the period before 'src-sw.js' on line 30 in my webpack.config.js. 
+
+- My TA, Enrique, told me to add publicPath: '' on line 20 to fix an error that I was having with my manifest.json file. 
 
 - If I referenced an activity for a certain file, I included a comment that indicates which activity I referenced for each file at the top of that file.
 
